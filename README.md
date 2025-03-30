@@ -54,12 +54,6 @@ A interface contém um campo de busca onde você pode digitar o nome de um Poké
   <button type="submit">Buscar</button>
 </form>
 
-
-
-🔗 API utilizada
-
-Este projeto utiliza a PokéAPI para obter informações dos Pokémon.
-
 📜 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para utilizá-lo e melhorá-lo! 🚀
